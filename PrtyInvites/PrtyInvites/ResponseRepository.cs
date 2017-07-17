@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 
-namespace PrtyInvites {
+namespace PartyInvites {
    public class ResponseRepository {
 
       private static ResponseRepository _repository = new ResponseRepository();
